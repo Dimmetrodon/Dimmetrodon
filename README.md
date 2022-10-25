@@ -4,5 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmetrodon&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/The_Luppa/badges/large)](https://www.codewars.com/users/The_Luppa)   
-
